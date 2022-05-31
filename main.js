@@ -1,5 +1,5 @@
 const API_URL_RANDOM = "https://api.thecatapi.com/v1/images/search?limit=2&api_key=7482df93-9803-4144-9948-76141732c177";
-const API_URL_FAVORITES = "https://api.thecatapi.com/v1/favourites?limit=2&api_key=7482df93-9803-4144-9948-76141732c177";
+const API_URL_FAVORITES = 'https://api.thecatapi.com/v1/favourites?api_key=7482df93-9803-4144-9948-76141732c177';
 
 const spanError = document.getElementById('error')
 
