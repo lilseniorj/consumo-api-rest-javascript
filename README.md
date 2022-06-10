@@ -1,4 +1,4 @@
-# consumo-api-rest-javascript
+# consume-api-rest-javascript
 
 # Waht is a REST API?
 - An API (Application Program Interface) is the way the backend communicates with the frontend through an interface.
@@ -86,3 +86,41 @@ Headers are KEY: value schemas that contain information about the HTTP request a
 - application/vnd.ms-excel
 - application/vnd.ms-powerpoint
 - application/msword
+
+# Axios JS libraries to consume API's
+## http clients
+- Axes
+- Fetch.js
+- node-fetch (for node.js)
+- request (for node.js)
+
+# Properties from fetch
+
+### Modes
+- Cors
+- No-cors
+- Same-origin
+
+### Cache
+- Default
+- No-store
+- Reolad
+- No-cache
+- Force-cache
+- Only-if-cache
+
+### Redirect
+- Follow
+- Error
+- Manual
+
+## Graph QL
+- Empowered clients
+- All request on the same endpoint
+
+## Web Sockest
+- leave the "tunnel open"
+- useful for real-time applications ("instantaneous" communication)
+
+## Web 3.0
+- Dapps: decentralized applications
