@@ -120,7 +120,7 @@ Headers are KEY: value schemas that contain information about the HTTP request a
 
 ## Web Sockest
 - leave the "tunnel open"
-- useful for real-time applications ("instantaneous" communication)
+- useful for real-time applications ("instantaneous" communication)1
 
 ## Web 3.0
 - Dapps: decentralized applications

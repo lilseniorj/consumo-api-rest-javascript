@@ -1,0 +1,84 @@
+*{
+  box-sizing: border-box;
+  margin: 20;
+  background-color:#5f9ea0;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  margin: 10px;
+}
+h2{
+  text-align: center;
+  color: white;
+  margin: 30px;
+}
+
+#img1 {
+  object-fit: cover;
+  width: 180px;
+  height: 150px;
+}
+#img2 {
+  object-fit: cover;
+  width: 180px;
+  height: 150px;
+}
+
+#randomMichis {
+  background-color: #b8d0d1;
+  width: 50%;
+  float: left;
+  height: 700px;
+  padding: 5%;
+}
+
+#btn1 {
+  color: white;
+  font-size: 18px;
+  font-weight: bolder;
+  border-radius: 10px;
+  width: 30%;
+  margin: 50px;
+}
+#btn2 {
+  color: white;
+  font-size: 18px;
+  font-weight: bolder;
+  border-radius: 10px;
+  width: 30%;
+  justify-content: center;
+  margin: 50px;
+}
+
+#reoladButton {
+  color: white;
+  font-size: 18px;
+  font-weight: bolder;
+  border-radius: 10px;
+  width: 30%;
+  height: 35px;
+  max-width: 20%;
+  margin-top: 10px;
+}
+
+#uploadingMichi {
+  font-size: 20px;
+  margin: 20px;
+}
+
+#uploadingMichi, button {
+  color: white;
+  font-size: 18px;
+  font-weight: bolder;
+  border-radius: 10px;
+}
+
+#favoritesMichis{
+  background-color: #5f9ea0;
+}
+#favoritesMichis, img{
+  margin: 10px;
+}
