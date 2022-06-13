@@ -87,7 +87,9 @@ Headers are KEY: value schemas that contain information about the HTTP request a
 - application/vnd.ms-powerpoint
 - application/msword
 
-# Axios JS libraries to consume API's ### http clients
+# Axios JS libraries to consume API's
+
+### http clients
 - Axes
 - Fetch.js
 - node-fetch (for node.js)
